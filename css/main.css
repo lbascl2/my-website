@@ -1,1 +1,7 @@
 /* Place CSS styles here */
+body {
+    color:rgb(51, 10, 104);
+    background-color:aquamarine;
+    font-size: 30px;
+    background-image: url(../img/flowers-background.jpg)
+}
