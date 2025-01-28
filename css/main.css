@@ -1,7 +1,20 @@
 /* Place CSS styles here */
 body {
     color:rgb(51, 10, 104);
-    background-color:aquamarine;
+    background-color:rgb(255, 255, 255);
     font-size: 30px;
-    background-image: url(../img/flowers-background.jpg)
+    background-image: url()
+}
+
+.taco-feast-hero {
+    background-image: url(../img/taco-feast-hero.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 500px;
+}
+
+.snow-day {
+    color: purple;
+    text-align:center
+    
 }
