@@ -88,3 +88,20 @@ a:hover {
 a:visited {
     color:rgb(27, 54, 54);
 }
+
+
+.parent {
+    display: flex;
+    gap: 30px;
+}
+
+.child {
+
+    margin: 50px;
+    background-color: white;
+}
+
+.child img {
+    width: 100%;
+    /* This is making it take up 100 percent of the div actually making it smaller*/
+}
