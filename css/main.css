@@ -71,7 +71,7 @@ p {
 .link-styles {
     text-align: center;
     background-color: rgb(225, 225, 225);
-    margin: 20px;
+    margin: 30px;
     max-width: 800px;
     margin-left: auto;
     margin-right: auto;
@@ -104,4 +104,35 @@ a:visited {
 .child img {
     width: 100%;
     /* This is making it take up 100 percent of the div actually making it smaller*/
+}
+
+.banner {
+    background-color: rgb(144, 193, 217);
+    font-size: 20px;
+    padding: 1px;
+}
+
+.penguin_header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(255, 255, 255);
+}
+
+.penguin_logo {
+    height: 75px;
+    margin: 15px;
+ 
+}
+
+nav {
+    margin-right: 20px;
+}
+
+.page_division {
+    display: flex;
+}
+
+.word_box {
+    text-align: left;
 }
