@@ -131,6 +131,7 @@ nav {
 
 .page_division {
     display: flex;
+    flex-direction: column;
 }
 
 .word_box {
